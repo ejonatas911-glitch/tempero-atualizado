@@ -1,0 +1,6 @@
+{
+  "name": "Tempero Nordestino - Delivery",
+  "description": "Aplicativo de delivery profissional para o Restaurante Tempero Nordestino. Cardápio completo, personalização de pratos e envio de pedidos direto via WhatsApp.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
